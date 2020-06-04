@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gabrielranulfo.github.io
+Token: c73780e14ee1cfcb24ffb7b73feb32d7b9a83c7a4d2ae8f7f81c624475ae3b03
